@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libs/libdjiosdk-platform.a  CMakeFiles/djiosdk-platform.dir/src/LinuxSerialDevice.cpp.o CMakeFiles/djiosdk-platform.dir/src/LinuxThread.cpp.o
+/usr/bin/ranlib ../../libs/libdjiosdk-platform.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libs/libdjiosdk-wrapper.a  CMakeFiles/djiosdk-wrapper.dir/src/LinuxCamera.cpp.o CMakeFiles/djiosdk-wrapper.dir/src/LinuxCleanup.cpp.o CMakeFiles/djiosdk-wrapper.dir/src/LinuxFlight.cpp.o CMakeFiles/djiosdk-wrapper.dir/src/LinuxMobile.cpp.o CMakeFiles/djiosdk-wrapper.dir/src/LinuxSetup.cpp.o CMakeFiles/djiosdk-wrapper.dir/src/LinuxWaypoint.cpp.o CMakeFiles/djiosdk-wrapper.dir/src/ReadUserConfig.cpp.o
+/usr/bin/ranlib ../libs/libdjiosdk-wrapper.a

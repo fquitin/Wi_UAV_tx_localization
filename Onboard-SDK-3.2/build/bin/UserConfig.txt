@@ -1,0 +1,5 @@
+ID://///
+KEY:///////
+DeviceName: /dev/ttyAMA0
+BaudRate: 230400
+Version: versionM100_31
